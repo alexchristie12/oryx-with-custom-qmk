@@ -18,7 +18,7 @@
 #undef MOUSEKEY_TIME_TO_MAX
 #define MOUSEKEY_TIME_TO_MAX 30
 
-#define SERIAL_NUMBER "AWwgE/xYGn5"
+#define SERIAL_NUMBER "AWwgE/7anOr"
 #define LAYER_STATE_8BIT
 #define COMBO_COUNT 4
 
